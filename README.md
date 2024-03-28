@@ -1,0 +1,1 @@
+# Product_registration_django
